@@ -29,11 +29,11 @@ $0 =~ s/^\.\///;
 @ARGV == 1 or die "usage: $0 [save|restore]\n";
 
 if ($ARGV[0] eq 'save') {
-	open(my $tsfile, '>', FILE) or die("can't open .ts: $!\n");
+	open(my $tsfile, '>', FILE) or die("can't open ".FILE.": $!\n");
 	scan_dir('.', $tsfile);
 	close($tsfile);
 } elsif ($ARGV[0] eq 'restore') {
-	open(my $tsfile, '<', FILE) or die("can't open .ts: $!\n");
+	open(my $tsfile, '<', FILE) or die("can't open ".FILE.": $!\n");
 	my $path;
 	while(<$tsfile>) {
 		if(/^F (.*)/) {
