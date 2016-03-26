@@ -1,0 +1,7 @@
+#!/bin/sh
+
+dir="${1%.*}"
+mkdir "$dir"
+cd "$dir"
+arj e "$OLDPWD/$1"
+touch -r "$OLDPWD/$1" .
