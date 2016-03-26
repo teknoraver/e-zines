@@ -5,7 +5,7 @@ touch -r "$updir" /tmp/unarj-$$
 dir="${1%.*}"
 mkdir "$dir"
 cd "$dir"
-arj e "$OLDPWD/$1"
+arj x -y "$OLDPWD/$1"
 touch -r "$OLDPWD/$1" .
 cd -
 rm "$1"
