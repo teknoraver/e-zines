@@ -2,7 +2,7 @@
 
 touch -r . /tmp/unzipf-$$
 
-for i in *.zip; do
+for i in *.ZIP; do
 	unzip "$i"
 	rm "$i"
 done
