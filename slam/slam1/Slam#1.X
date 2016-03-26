@@ -1,1 +1,0 @@
-               --- SLAM ISSUE 1.....The Document X ---
