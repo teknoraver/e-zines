@@ -509,9 +509,95 @@ T 3043022768
 F 29a/29A-1/29A#1.4_5
 T 3043022768
 F pla
-T 1383261066
-F pla/pla.zip
 T 861631298
+F pla/pla030.txt
+T 859724088
+F pla/pla003.txt
+T 859722118
+F pla/pla099.txt
+T 859640834
+F pla/pla022.txt
+T 859723340
+F pla/pla008.txt
+T 859722216
+F pla/pla001.txt
+T 859634840
+F pla/pla041.txt
+T 859724828
+F pla/pla021.txt
+T 859723268
+F pla/pla035.txt
+T 859724444
+F pla/pla002.txt
+T 859634844
+F pla/pla034.txt
+T 859724404
+F pla/pla025.txt
+T 859723522
+F pla/pla020.txt
+T 859723212
+F pla/pla019.txt
+T 859723182
+F pla/pla040.txt
+T 859724790
+F pla/pla004.txt
+T 859722266
+F pla/pla024.txt
+T 859723496
+F pla/pla011.txt
+T 859634880
+F pla/pla013.txt
+T 859638014
+F pla/pla027.txt
+T 859723582
+F pla/pla036.txt
+T 859724536
+F pla/pla007.txt
+T 859722182
+F pla/pla029.txt
+T 859723680
+F pla/pla038.txt
+T 859724626
+F pla/pla039.txt
+T 859724714
+F pla/pla018.txt
+T 859635286
+F pla/pla005.txt
+T 859722150
+F pla/pla016.txt
+T 859723000
+F pla/pla032.txt
+T 859724252
+F pla/pla044.txt
+T 859725248
+F pla/pla026.txt
+T 859723548
+F pla/pla017.txt
+T 859723136
+F pla/pla023.txt
+T 859723384
+F pla/pla015.txt
+T 859722982
+F pla/pla031.txt
+T 859724160
+F pla/pla014.txt
+T 859722528
+F pla/pla042.txt
+T 859724906
+F pla/pla028.txt
+T 859723600
+F pla/pla012.txt
+T 859722460
+F pla/pla009.txt
+T 859634860
+F pla/pla043.txt
+T 859725042
+F pla/pla033.txt
+T 859724324
+F pla/pla010.txt
+T 859722236
+F pla/pla006.txt
+T 859634854
 F xine
 T 1383261134
 F xine/xine-2.zip
@@ -671,9 +757,17 @@ T 870873544
 F chalisti/chalisti-9
 T 870873546
 F planet
-T 1383261066
-F planet/planet_1.zip
 T 870873556
+F planet/README.1ST
+T 794174252
+F planet/WE_ARE.POI
+T 794170950
+F planet/FILE_ID.DIZ
+T 794174784
+F planet/ECHOLIST.POI
+T 794173030
+F planet/PLANET.APP
+T 794174018
 F pud
 T 1383261072
 F pud/pud_2_12.txt
@@ -746,10 +840,36 @@ F pud/pud_2_5.txt
 T 893075236
 F plasma
 T 1383261066
-F plasma/plasma2.zip
+F plasma/plasma1
 T 863706252
-F plasma/plasma1.zip
+F plasma/plasma1/DC.DAT
+T 829163734
+F plasma/plasma1/LSD.ANS
+T 828964000
+F plasma/plasma1/DC.NFO
+T 829160636
+F plasma/plasma1/PLASMA.EXE
+T 829163168
+F plasma/plasma1/FILE_ID.DIZ
+T 828963582
+F plasma/plasma2
 T 863706252
+F plasma/plasma2/DC.DAT
+T 841620516
+F plasma/plasma2/OLE.DAT
+T 841609084
+F plasma/plasma2/MVDK10B.ZIP
+T 841326048
+F plasma/plasma2/DC.NFO
+T 841617904
+F plasma/plasma2/PLASMA.EXE
+T 841618604
+F plasma/plasma2/SPE.OBJ
+T 835811424
+F plasma/plasma2/FILE_ID.DIZ
+T 841617256
+F plasma/plasma2/LSD3.ANS
+T 837983530
 F cotno
 T 1383261008
 F cotno/COTNO03.TXT
@@ -2007,9 +2127,27 @@ T 867774645
 F noroute/noroute3/NR3-11.txt
 T 867770570
 F revel
-T 1383261084
-F revel/revel_1.zip
 T 852304318
+F revel/REVEL_1.007
+T 765151202
+F revel/REVEL_1.006
+T 765151202
+F revel/REVEL_1.004
+T 765151204
+F revel/REVEL_1.003
+T 765151204
+F revel/TRINITY.COM
+T 765151208
+F revel/TRINITY.ANS
+T 765151206
+F revel/REVEL_1.002
+T 765151202
+F revel/REVEL_1.005
+T 765151204
+F revel/REVEL_1.001
+T 765151204
+F revel/HAHA.GIF
+T 765151206
 F rvm
 T 1383261086
 F rvm/RVM1_UP1.ARJ
@@ -2218,28 +2356,108 @@ F mg/mg_23_4/APPLY.MG!
 T 827311074
 F qic
 T 1383261072
-F qic/qic-10.zipmpt
+F qic/qic-7
 T 881667584
-F qic/qic-9.zip
+F qic/qic-7/FILE_ID.DIZ
+T 792692160
+F qic/qic-7/WALMART.TXT
+T 792692152
+F qic/qic-4
 T 881667584
-F qic/qic-net.zip
+F qic/qic-4/QICINF.ANS
+T 789487922
+F qic/qic-4/SCENE.TXT
+T 789594872
+F qic/qic-4/FILE_ID.DIZ
+T 789595518
+F qic/qic-6
+T 881667584
+F qic/qic-6/QICINF.ANS
+T 789487922
+F qic/qic-6/FILE_ID.DIZ
+T 792446078
+F qic/qic-6/QIC-6.TXT
+T 792444980
+F qic/qic-2
+T 881667584
+F qic/qic-2/FILE_ID.DIZ
+T 787597330
+F qic/qic-2/QIC-2.TXT
+T 787597224
+F qic/qic-9
+T 881667584
+F qic/qic-9/NAPALM.COM
+T 794516870
+F qic/qic-9/AFFILS
+T 1459027029
+F qic/qic-9/AFFILS/QIC
+T 1459027029
+F qic/qic-9/AFFILS/QIC/QIC-9.TXT
+T 794904434
+F qic/qic-9/AFFILS/QIC/APP
+T 1459027029
+F qic/qic-9/AFFILS/QIC/APP/FILE_ID.DIZ
+T 793245892
+F qic/qic-9/AFFILS/QIC/FILE_ID.DIZ
+T 794904552
+F qic/qic-11
+T 881667584
+F qic/qic-11/QIC-11.TXT
+T 798483688
+F qic/qic-11/QIC-ADD.COM
+T 797341256
+F qic/qic-11/FILE_ID.DIZ
+T 798483976
+F qic/qic-net
 T 881667662
-F qic/qic-4.zip
+F qic/qic-net/SUB.COM
+T 795921216
+F qic/qic-net/QICNET.001
+T 796000386
+F qic/qic-net/BASES.QIC
+T 796004112
+F qic/qic-net/FILE_ID.DIZ
+T 796005934
+F qic/qic-net/RULES.QIC
+T 796005646
+F qic/qic-net/QICNET.APP
+T 796005202
+F qic/qic-10
 T 881667584
-F qic/qic-6.zip
+F qic/qic-10/TELCO.MAN
+T 795103346
+F qic/qic-10/SITE.TXT
+T 794543742
+F qic/qic-10/NAPALM.COM
+T 794516870
+F qic/qic-10/JOKE.TXT
+T 794627026
+F qic/qic-10/FILE_ID.DIZ
+T 795103484
+F qic/qic-8
 T 881667584
-F qic/qic-5.zip
+F qic/qic-8/IRCII.TXT
+T 793896034
+F qic/qic-8/FILE_ID.DIZ
+T 793896330
+F qic/qic-8/NAPALM.NFO
+T 792607476
+F qic/qic-3
 T 881667584
-F qic/qic-3.zip
+F qic/qic-3/HACK.TXT
+T 789325194
+F qic/qic-3/FILE_ID.DIZ
+T 789326586
+F qic/qic-5
 T 881667584
-F qic/qic-7.zip
-T 881667584
-F qic/qic-2.zip
-T 881667584
-F qic/qic-11.zip
-T 881667584
-F qic/qic-8.zip
-T 881667584
+F qic/qic-5/QICINF.ANS
+T 789487922
+F qic/qic-5/!FTP!.TXT
+T 792014896
+F qic/qic-5/FILE_ID.DIZ
+T 792015886
+F qic/qic-5/NAPALM.NFO
+T 792016030
 F inform
 T 1383261052
 F inform/inform-4
@@ -2254,10 +2472,56 @@ F inform/inform-3
 T 870873550
 F rage
 T 1383261074
-F rage/rage_232.zip
+F rage/rage_231
 T 861632840
-F rage/rage_231.zip
+F rage/rage_231/RAGEMAG.TXT
+T 790026988
+F rage/rage_231/RAGE.ANS
+T 790026988
+F rage/rage_231/RAGETRAX.004
+T 790026988
+F rage/rage_231/RAGE_DAT.003
+T 790026988
+F rage/rage_231/RAGETRAX.001
+T 790026988
+F rage/rage_231/RAGE_DAT.001
+T 790026988
+F rage/rage_231/RAGE.EXE
+T 790026988
+F rage/rage_231/RUNMENOW.EXE
+T 790026988
+F rage/rage_231/UUDWPIC4.JPG
+T 790026988
+F rage/rage_231/FILE_ID.DIZ
+T 790026988
+F rage/rage_231/RAGETRAX.003
+T 790026988
+F rage/rage_231/UUDW_APP.EXE
+T 790026988
+F rage/rage_231/RAGE_DAT.004
+T 790026988
+F rage/rage_231/RAGETRAX.002
+T 790026988
+F rage/rage_231/RAGE_DAT.002
+T 790026988
+F rage/rage_231/UUDW.NFO
+T 790026988
+F rage/rage_232
 T 861632840
+F rage/rage_232/RAGE.DAT
+T 795043326
+F rage/rage_232/1.EXE
+T 795043326
+F rage/rage_232/RAGE.TXT
+T 795107632
+F rage/rage_232/README.NOW
+T 795107772
+F rage/rage_232/2.EXE
+T 795108416
+F rage/rage_232/RAGE.EXE
+T 795108482
+F rage/rage_232/FILE_ID.DIZ
+T 795043326
 F mot
 T 1383261060
 F mot/mot002
@@ -2727,9 +2991,73 @@ T 870873558
 F scam/scam-8.zip
 T 870873558
 F rsa
-T 1383261084
-F rsa/rsa1.zip
 T 874346838
+F rsa/RSA#1.2_1
+T 867610800
+F rsa/RSA#1.2_2
+T 867610800
+F rsa/RSA#1.1_1
+T 867610800
+F rsa/RSA#1.1_3
+T 867610800
+F rsa/WANGEL
+T 867610800
+F rsa/WANGEL/VIR
+T 867607380
+F rsa/WANGEL/VIR/VIR.ASM
+T 867585200
+F rsa/WANGEL/VIR/BUILD.BAT
+T 867461896
+F rsa/WANGEL/DEMO
+T 867607380
+F rsa/WANGEL/DEMO/BUILD.BAT
+T 867461918
+F rsa/WANGEL/DEMO/SAMPLE.ASM
+T 867521838
+F rsa/WANGEL/DEMO/SAMPLE.COM
+T 867521838
+F rsa/WANGEL/WHITEN.OBJ
+T 867586530
+F rsa/RSA#1.1_2
+T 867610800
+F rsa/RSA#1.3_2
+T 867610800
+F rsa/RSA#1.3_5
+T 867610800
+F rsa/RSA#1.2_3
+T 867610800
+F rsa/RSA#1.3_4
+T 867610800
+F rsa/RSA#1.EXE
+T 867610800
+F rsa/RSA#1.3_1
+T 867610800
+F rsa/WW0RKER
+T 867610800
+F rsa/WW0RKER/WWPE
+T 867607308
+F rsa/WW0RKER/WWPE/WWPE.OBJ
+T 867604564
+F rsa/WW0RKER/WWPE/WWPEDEMO.ASM
+T 867604502
+F rsa/WW0RKER/CEZAR
+T 867607308
+F rsa/WW0RKER/CEZAR/A.BAT
+T 867243358
+F rsa/WW0RKER/CEZAR/STRUCS.ASM
+T 837305750
+F rsa/WW0RKER/CEZAR/WWPE.OBJ
+T 867604564
+F rsa/WW0RKER/CEZAR/CEZAR.ASM
+T 867507652
+F rsa/WW0RKER/CEZAR/PROCS.ASM
+T 837308416
+F rsa/WW0RKER/CEZAR/CRC32.ASM
+T 867057496
+F rsa/RSA#1.3_6
+T 867610800
+F rsa/RSA#1.3_3
+T 867610800
 F tot
 T 1383261108
 F tot/TOT-05.TXT
@@ -2742,10 +3070,10 @@ F tot/TOT-O3.TXT
 T 893075724
 F ppp
 T 1383261068
-F ppp/ppp_1.zip
-T 850841214
-F ppp/ppp_2.zip
-T 850841218
+F ppp/PPP-2
+T 733576232
+F ppp/PPP-1
+T 733576230
 F jauc
 T 1383261054
 F jauc/jauc0108
@@ -5900,92 +6228,648 @@ F citro/CITRO-3.TXT
 T 783229124
 F rcn
 T 1383261084
-F rcn/rcn-10.zip
-T 870881420
-F rcn/rcn-21.zip
-T 870882244
-F rcn/rcn-07.zip
-T 870881418
-F rcn/rcn-24.zip
-T 870882248
-F rcn/rcn-03.zip
+F rcn/rcn-04
 T 870881400
-F rcn/rcn-09.zip
+F rcn/rcn-04/FILE_ID.DIZ
+T 818464372
+F rcn/rcn-04/REALITY.EXE
+T 818525626
+F rcn/rcn-09
 T 870881420
-F rcn/rcn-25.zip
-T 870885778
-F rcn/rcn-13.zip
+F rcn/rcn-09/RCN-09.TXT
+T 821638802
+F rcn/rcn-09/RCN-09.EXE
+T 821643406
+F rcn/rcn-09/FILE_ID.DIZ
+T 821614768
+F rcn/rcn-21
+T 870882244
+F rcn/rcn-21/RCN-21.EXE
+T 836765358
+F rcn/rcn-21/FILE_ID.NFO
+T 836761544
+F rcn/rcn-21/RCN-21.TXT
+T 836760968
+F rcn/rcn-21/FILE_ID.DIZ
+T 836757412
+F rcn/rcn-13
 T 870881422
-F rcn/rcn-35.zip
-T 870890772
-F rcn/rcnae-30.zip
-T 870978054
-F rcn/rcn-05.zip
-T 870881418
-F rcn/rcn-14.zip
+F rcn/rcn-13/RCN-13.EXE
+T 824025904
+F rcn/rcn-13/FILE_ID.DIZ
+T 824024166
+F rcn/rcn-11
 T 870881422
-F rcn/rcn-29.zip
+F rcn/rcn-11/RCN-11.EXE
+T 822866492
+F rcn/rcn-11/RCN-11.TXT
+T 822867326
+F rcn/rcn-11/FILE_ID.DIZ
+T 822867350
+F rcn/rcn-10
+T 870881420
+F rcn/rcn-10/RCN-10.TXT
+T 822227756
+F rcn/rcn-10/RCN-10.EXE
+T 822227858
+F rcn/rcn-10/FILE_ID.DIZ
+T 822227918
+F rcn/rcn-29
 T 870887788
-F rcn/rcn-30.zip
-T 870888482
-F rcn/rcn-11.zip
-T 870881422
-F rcn/rcn-02.zip
-T 870881400
-F rcn/rcn-tp2.zip
-T 873740520
-F rcn/rcn-28.zip
-T 870887778
-F rcn/rcn-08.zip
-T 870881420
-F rcn/rcn-36.zip
-T 870891172
-F rcn/rcn-01.zip
-T 870881400
-F rcn/rcn-26.zip
-T 870885794
-F rcn/rcn-04.zip
-T 870881400
-F rcn/rcn-33.zip
-T 870890764
-F rcn/rcnae-35.zip
-T 871043296
-F rcn/rcn-31.zip
-T 870889246
-F rcn/rcn-17.zip
-T 870881426
-F rcn/rcn-37.zip
-T 870892142
-F rcn/rcn-18.zip
-T 870881426
-F rcn/rcn-16.zip
-T 870881424
-F rcn/rcn-22.zip
-T 870882244
-F rcn/rcn-34.zip
-T 870890768
-F rcn/rcn-27.zip
+F rcn/rcn-29/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-29/FILE_ID.NFO
+T 846362862
+F rcn/rcn-29/RCN-29.EXE
+T 846441694
+F rcn/rcn-29/FILE_ID.DIZ
+T 846197760
+F rcn/rcn-27
 T 870886940
-F rcn/rcn-23.zip
-T 870882246
-F rcn/rcnae-31.zip
-T 871037342
-F rcn/rcn-15.zip
-T 870881424
-F rcn/rcnae-37.zip
-T 874078010
-F rcn/rcn-06.zip
-T 870881418
-F rcn/rcn-17.$$$
-T 1321914972
-F rcn/rcn-32.zip
-T 870890760
-F rcn/rcn-19.zip
-T 870881428
-F rcn/rcn-12.zip
+F rcn/rcn-27/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-27/FILE_ID.NFO
+T 842805100
+F rcn/rcn-27/RCN-27.EXE
+T 842804114
+F rcn/rcn-27/FILE_ID.DIZ
+T 842787212
+F rcn/rcn-27/UUDECODE.EXE
+T 835394216
+F rcn/rcn-12
 T 870881422
-F rcn/rcn-20.zip
+F rcn/rcn-12/RCN-12.EXE
+T 823453186
+F rcn/rcn-12/FILE_ID.DIZ
+T 823452818
+F rcn/rcn-12/RCN-12.TXT
+T 823451132
+F rcn/rcn-07
+T 870881418
+F rcn/rcn-07/FILE_ID.DIZ
+T 820375202
+F rcn/rcn-07/RCN-07.EXE
+T 820433472
+F rcn/rcn-20
 T 870882242
+F rcn/rcn-20/RCN-20.TXT
+T 836164170
+F rcn/rcn-20/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-20/FILE_ID.NFO
+T 836157898
+F rcn/rcn-20/RCN-20.EXE
+T 836091634
+F rcn/rcn-20/FILE_ID.DIZ
+T 836151762
+F rcn/rcn-02
+T 870881400
+F rcn/rcn-02/FILE_ID.DIZ
+T 817291794
+F rcn/rcn-02/REALITY.EXE
+T 817254726
+F rcn/rcn-16
+T 870881424
+F rcn/rcn-16/RCN-16.TXT
+T 833726528
+F rcn/rcn-16/FILE_ID.DIZ
+T 833730690
+F rcn/rcn-16/RCN-16.EXE
+T 833731938
+F rcn/rcn-15
+T 870881424
+F rcn/rcn-15/FILE_ID.DIZ
+T 833103678
+F rcn/rcn-15/RCN-15.EXE
+T 833114516
+F rcn/rcn-15/RCN-15.TXT
+T 833116086
+F rcn/rcn-03
+T 870881400
+F rcn/rcn-03/FILE_ID.DIZ
+T 817884080
+F rcn/rcn-03/REALITY.EXE
+T 817887766
+F rcn/rcn-05
+T 870881418
+F rcn/rcn-05/RCN-05.EXE
+T 819066662
+F rcn/rcn-05/FILE_ID.DIZ
+T 819045972
+F rcn/rcn-tp2
+T 873740520
+F rcn/rcn-tp2/RCN-BBS.ANS
+T 871250514
+F rcn/rcn-tp2/Program Files
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/RCN - Black (Pirate Theme).Theme
+T 871207168
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Icons
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Icons/MyCpu.ico
+T 836431200
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Icons/Full.ico
+T 836474400
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Icons/Network.ico
+T 836474400
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Icons/Empty.ico
+T 836474400
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/wall.jpg
+T 871167206
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/Empty.wav
+T 838647934
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/Minimize.wav
+T 838645728
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/Asterisk.wav
+T 838645938
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/Question.wav
+T 838646032
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/Exclamation.wav
+T 838646548
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/Maximize.wav
+T 838645800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/StartWin.wav
+T 838645244
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/Default.wav
+T 803125446
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/ProgErr.wav
+T 838646254
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Sounds/ExitWin.wav
+T 838645544
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/beam.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/cross.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/help.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/no.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/Size NESW.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/arrow.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/wait.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/Size NS.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/up.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/Size WE.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/pen.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/move.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/busy.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-brwn/Cursors/Size NWSE.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Icons
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Icons/MyCpu.ico
+T 871170298
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Icons/Full.ico
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Icons/Empty.ico
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Icons/network.ico
+T 871170740
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/wall.jpg
+T 871164268
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds/Asterisk.wav
+T 863371020
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds/empty.wav
+T 871157856
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds/question.wav
+T 837874236
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds/default.wav
+T 846091268
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds/StartWin.wav
+T 871212202
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds/ProgErr.wav
+T 846088338
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Sounds/ExitWin.wav
+T 871138246
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/beam.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/cross.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/Mystery up.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/help.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/no.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/Size NESW.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/arrow.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/Size NS.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/Size WE.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/pen.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/move.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blue/Cursors/Size NWSE.cur
+T 805672800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/RCN - Brown (Jurassic Theme).Theme
+T 871231352
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/RCN - White (Got RCN Theme).Theme
+T 871240742
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Icons
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Icons/MyCpu.ico
+T 845293782
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Icons/Full.ico
+T 845257848
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Icons/Empty.ico
+T 845258002
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/wall.jpg
+T 871143288
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/Empty.wav
+T 852738324
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/MenuPup.wav
+T 852738800
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/Minimize.wav
+T 852738720
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/Question.wav
+T 852738270
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/Exclamation.wav
+T 852738578
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/OpenProg.wav
+T 852738616
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/Maximize.wav
+T 852738768
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/StartWin.wav
+T 852738932
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/MenuCnd.wav
+T 852738542
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/ProgErr.wav
+T 852738468
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/Critical.wav
+T 852738682
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Sounds/ExitWin.wav
+T 852738380
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Cross.cur
+T 845423370
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Size NESW.cur
+T 845424152
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Arrow.cur
+T 845550462
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Size NS.cur
+T 845424388
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Help.cur
+T 845550532
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/No.ani
+T 845332218
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Size WE.cur
+T 845425156
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Move.cur
+T 845423850
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/AppStarting.ani
+T 845550724
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Wait.ani
+T 844551320
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Pen.cur
+T 845424982
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Beam.cur
+T 845423586
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-blk/Cursors/Size NWSE.cur
+T 845423092
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Icons
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Icons/MyCpu.ico
+T 823353106
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Icons/Full.ico
+T 823353982
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Icons/Network.ico
+T 823353650
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Icons/Empty.ico
+T 823353806
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/wall.jpg
+T 871160292
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Sounds
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Sounds/StartWin.wav
+T 871232284
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Sounds/Default.wav
+T 871230536
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Sounds/ProgErr.wav
+T 871232138
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Sounds/ExitWin.wav
+T 871232388
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors
+T 1459027082
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/No.cur
+T 826985186
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Cross.cur
+T 826984932
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/help.cur
+T 826985018
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Size NESW.cur
+T 826985346
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/arrow.cur
+T 826984782
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Busy.ani
+T 826984594
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Size NS.cur
+T 826985392
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/up.cur
+T 826985558
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Size WE.cur
+T 826985516
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Move.cur
+T 826985092
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Wait.ani
+T 826984248
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Pen.cur
+T 826985274
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Beam.cur
+T 826984858
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/rcn-wht/Cursors/Size NWSE.cur
+T 826985454
+F rcn/rcn-tp2/Program Files/PLUS!/Themes/RCN - Blue (Shadowed Lettering).Theme
+T 871240670
+F rcn/rcn-tp2/file_id.diz
+T 871250502
+F rcn/rcn-tp2/NETWORK.EXE
+T 871250512
+F rcn/rcn-tp2/File_id.nfo
+T 871250506
+F rcn/rcnae-31
+T 871037342
+F rcn/rcnae-31/RCN-BBS.ANS
+T 835976998
+F rcn/rcnae-31/RCNAE-31.EXE
+T 849445750
+F rcn/rcnae-31/FILE_ID.DIZ
+T 849445868
+F rcn/rcn-37
+T 870892142
+F rcn/rcn-37/RCN-BBS.ANS
+T 867243600
+F rcn/rcn-37/RCN-37.EXE
+T 867243600
+F rcn/rcn-37/FILE_ID.NFO
+T 867243600
+F rcn/rcn-37/NETWORK.EXE
+T 867243600
+F rcn/rcn-37/FILE_ID.DIZ
+T 867243600
+F rcn/rcn-17
+T 870881426
+F rcn/rcn-17/RCN-17.EXE
+T 834335190
+F rcn/rcn-17/RCN-17.TXT
+T 834334426
+F rcn/rcn-17/FILE_ID.DIZ
+T 834334542
+F rcn/rcn-01
+T 870881400
+F rcn/rcn-01/FILE_ID.DIZ
+T 816725566
+F rcn/rcn-01/REALITY.EXE
+T 816715080
+F rcn/rcn-14
+T 870881422
+F rcn/rcn-14/RCN-14.TXT
+T 832519104
+F rcn/rcn-14/FILE_ID.DIZ
+T 832519226
+F rcn/rcn-14/RCN-14.EXE
+T 832520156
+F rcn/rcn-24
+T 870882248
+F rcn/rcn-24/RCN-24.EXE
+T 839175738
+F rcn/rcn-24/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-24/FILE_ID.NFO
+T 839175782
+F rcn/rcn-24/RCN-24.TXT
+T 839175746
+F rcn/rcn-24/FILE_ID.DIZ
+T 839148418
+F rcn/rcn-25
+T 870885778
+F rcn/rcn-25/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-25/RCN-25.EXE
+T 840393164
+F rcn/rcn-25/FILE_ID.NFO
+T 840392126
+F rcn/rcn-25/FILE_ID.DIZ
+T 840393186
+F rcn/rcn-35
+T 870890772
+F rcn/rcn-35/RCN-BBS.ANS
+T 862750800
+F rcn/rcn-35/FILE_ID.NFO
+T 862750800
+F rcn/rcn-35/NETWORK.EXE
+T 862750800
+F rcn/rcn-35/FILE_ID.DIZ
+T 862750800
+F rcn/rcn-35/RCN-35.EXE
+T 862750800
+F rcn/rcn-08
+T 870881420
+F rcn/rcn-08/RCN-08.EXE
+T 821028908
+F rcn/rcn-08/FILE_ID.DIZ
+T 821029600
+F rcn/rcn-08/RCN-08.TXT
+T 821029454
+F rcn/rcn-26
+T 870885794
+F rcn/rcn-26/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-26/FILE_ID.NFO
+T 841592278
+F rcn/rcn-26/RCN-26.EXE
+T 841597880
+F rcn/rcn-26/FILE_ID.DIZ
+T 841592362
+F rcn/rcn-26/UUDECODE.EXE
+T 835394216
+F rcn/rcnae-35
+T 871043296
+F rcn/rcnae-35/RCN-BBS.ANS
+T 863355600
+F rcn/rcnae-35/FILE_ID.NFO
+T 863355600
+F rcn/rcnae-35/RCNAE-35.EXE
+T 863355600
+F rcn/rcnae-35/NETWORK.EXE
+T 863355600
+F rcn/rcnae-35/FILE_ID.DIZ
+T 863355600
+F rcn/rcn-32
+T 870890760
+F rcn/rcn-32/FILE_ID.DIZ
+T 850057446
+F rcn/rcn-32/RCN-32.EXE
+T 850058250
+F rcn/rcn-23
+T 870882246
+F rcn/rcn-23/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-23/RCN-23.EXE
+T 837948338
+F rcn/rcn-23/FILE_ID.NFO
+T 837950476
+F rcn/rcn-23/FILE_ID.DIZ
+T 837952080
+F rcn/rcn-23/RCN-23.TXT
+T 837946356
+F rcn/rcn-18
+T 870881426
+F rcn/rcn-18/RCN-18.TXT
+T 834949670
+F rcn/rcn-18/RCN-18.EXE
+T 834950694
+F rcn/rcn-18/FILE_ID.DIZ
+T 834949766
+F rcn/rcn-18/RCN.NFO
+T 834950404
+F rcn/rcn-34
+T 870890768
+F rcn/rcn-34/RCN-BBS.ANS
+T 861535800
+F rcn/rcn-34/RCN-34.EXE
+T 861535800
+F rcn/rcn-34/NETWORK.EXE
+T 861535800
+F rcn/rcn-34/FILE_ID.DIZ
+T 861535800
+F rcn/rcn-31
+T 870889246
+F rcn/rcn-31/Rcn-bbs.ans
+T 835976998
+F rcn/rcn-31/file_id.diz
+T 848957948
+F rcn/rcn-31/Rcn-31.exe
+T 848961008
+F rcn/rcn-31/File_id.nfo
+T 848956958
+F rcn/rcn-19
+T 870881428
+F rcn/rcn-19/FILE_ID.NFO
+T 835535918
+F rcn/rcn-19/RCN-19.TXT
+T 835536056
+F rcn/rcn-19/RCN-19.EXE
+T 835536234
+F rcn/rcn-19/FILE_ID.DIZ
+T 835535988
+F rcn/rcn-30
+T 870888482
+F rcn/rcn-30/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-30/RCN-30.EXE
+T 847667164
+F rcn/rcn-30/FILE_ID.NFO
+T 847666616
+F rcn/rcn-30/FILE_ID.DIZ
+T 847656046
+F rcn/rcnae-37
+T 874078010
+F rcn/rcnae-37/RCN-BBS.ANS
+T 867582240
+F rcn/rcnae-37/RCN37-AE.EXE
+T 867582240
+F rcn/rcnae-37/FILE_ID.NFO
+T 867582240
+F rcn/rcnae-37/NETWORK.EXE
+T 867582240
+F rcn/rcnae-37/FILE_ID.DIZ
+T 867582240
+F rcn/rcn-33
+T 870890764
+F rcn/rcn-33/RCN-BBS.ANS
+T 860331600
+F rcn/rcn-33/RCN-33.EXE
+T 860331600
+F rcn/rcn-33/FILE_ID.NFO
+T 860331600
+F rcn/rcn-33/NETWORK.EXE
+T 860331600
+F rcn/rcn-33/FILE_ID.DIZ
+T 860331600
+F rcn/rcn-22
+T 870882244
+F rcn/rcn-22/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-22/RCN-22.TXT
+T 837321064
+F rcn/rcn-22/FILE_ID.NFO
+T 837360496
+F rcn/rcn-22/FILE_ID.DIZ
+T 837266820
+F rcn/rcn-22/RCN-22.EXE
+T 837321056
+F rcn/rcnae-30
+T 870978054
+F rcn/rcnae-30/RCN-BBS.ANS
+T 835976998
+F rcn/rcnae-30/RCNAE-30.EXE
+T 847751604
+F rcn/rcnae-30/FILE_ID.DIZ
+T 847751432
+F rcn/rcn-28
+T 870887778
+F rcn/rcn-28/RCN-BBS.ANS
+T 835976998
+F rcn/rcn-28/RCN-28.EXE
+T 845758486
+F rcn/rcn-28/FILE_ID.NFO
+T 845755068
+F rcn/rcn-28/FILE_ID.DIZ
+T 845754208
+F rcn/rcn-36
+T 870891172
+F rcn/rcn-36/RCN-BBS.ANS
+T 863960400
+F rcn/rcn-36/FILE_ID.NFO
+T 863960400
+F rcn/rcn-36/NETWORK.EXE
+T 863960400
+F rcn/rcn-36/RCN-36.EXE
+T 863960400
+F rcn/rcn-36/FILE_ID.DIZ
+T 863960400
+F rcn/rcn-06
+T 870881418
+F rcn/rcn-06/RCN-06.EXE
+T 819672886
+F rcn/rcn-06/FILE_ID.DIZ
+T 819658010
 F scanner
 T 1383261088
 F scanner/snr0195.zip
@@ -5993,9 +6877,23 @@ T 876139856
 F scanner/snr9503.zip
 T 876139858
 F pvm
-T 1383261072
-F pvm/pvw#1.zip
 T 891607752
+F pvm/PVW1.005
+T 890151230
+F pvm/PVW1.003
+T 890149412
+F pvm/PVW1.004
+T 890149882
+F pvm/PVW1.001
+T 890146868
+F pvm/PVW1.002
+T 890147748
+F pvm/A134-95B.EXE
+T 889770032
+F pvm/PVW1.006
+T 890152040
+F pvm/INDEX.TXT
+T 890152186
 F glb
 T 1383261048
 F glb/GLB1-1
@@ -6014,25 +6912,97 @@ F haq/haq2.txt
 T 874051358
 F poi
 T 1383261068
-F poi/poi-food.zip
+F poi/poi-lred
 T 870873556
-F poi/poi-lred.zip
+F poi/poi-lred/LOCALRED.TXT
+T 793125118
+F poi/poi-lred/WE_ARE.POI
+T 793126336
+F poi/poi-lred/FILE_ID.DIZ
+T 793125496
+F poi/poi-gbug
 T 870873556
-F poi/poi-fyi1.zip
+F poi/poi-gbug/POI.NFO
+T 790898456
+F poi/poi-gbug/GOLD-BUG.COM
+T 315531668
+F poi/poi-gbug/GOLD-BUG.ASM
+T 315442800
+F poi/poi-gbug/FILE_ID.DIZ
+T 790898322
+F poi/poi-gbug/GOLD-BUG.TXT
+T 315442800
+F poi/poi-cprc
 T 870873556
-F poi/poi-term.zip
+F poi/poi-cprc/POI-CPRC.TXT
+T 799359516
+F poi/poi-cprc/WE_ARE.POI
+T 799359612
+F poi/poi-cprc/FILE_ID.DIZ
+T 799359966
+F poi/poi-3rd#
 T 870873556
-F poi/poi-cprc.zip
+F poi/poi-3rd#/README.TXT
+T 794440188
+F poi/poi-3rd#/POI-3RD#.TXT
+T 794439722
+F poi/poi-3rd#/WE_ARE.POI
+T 794440062
+F poi/poi-3rd#/FILE_ID.DIZ
+T 794440370
+F poi/poi-cna
 T 870873556
-F poi/poi-unix.zip
+F poi/poi-cna/WE_ARE.POI
+T 799011960
+F poi/poi-cna/FILE_ID.DIZ
+T 799012606
+F poi/poi-cna/POI-CNA.TXT
+T 799011448
+F poi/poi-map1
 T 870873556
-F poi/poi-gbug.zip
+F poi/poi-map1/POI-MAP1.GIF
+T 794517952
+F poi/poi-map1/WE_ARE.POI
+T 794440062
+F poi/poi-map1/MAP_NFO.POI
+T 794518414
+F poi/poi-map1/FILE_ID.DIZ
+T 794518286
+F poi/poi-food
 T 870873556
-F poi/poi-cna.zip
+F poi/poi-food/POI-FOOD.TXT
+T 793376214
+F poi/poi-food/WE_ARE.POI
+T 793487050
+F poi/poi-food/FILE_ID.DIZ
+T 793486728
+F poi/poi-950
 T 870873556
-F poi/poi-950.zip
+F poi/poi-950/950TONES.LST
+T 791830344
+F poi/poi-950/FILE_ID.DIZ
+T 792106516
+F poi/poi-term
 T 870873556
-F poi/poi-3rd#.zip
+F poi/poi-term/POI-TERM.TXT
+T 805719884
+F poi/poi-term/WE_ARE.POI
+T 805719980
+F poi/poi-term/FILE_ID.DIZ
+T 805720152
+F poi/poi-unix
 T 870873556
-F poi/poi-map1.zip
+F poi/poi-unix/README.POI
+T 790372364
+F poi/poi-unix/FILE_ID.DIZ
+T 790372702
+F poi/poi-unix/DEFAULT.LST
+T 790206362
+F poi/poi-fyi1
 T 870873556
+F poi/poi-fyi1/WE_ARE.POI
+T 793487050
+F poi/poi-fyi1/POI-FYI1.TXT
+T 793487964
+F poi/poi-fyi1/FILE_ID.DIZ
+T 793724312
