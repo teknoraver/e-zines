@@ -950,8 +950,6 @@ F feh/feh_ii.txt
 T 873900104
 F feh/feh_iii.txt
 T 873900104
-F unzipone
-T 1459022460
 F moret1
 T 870873554
 F moret1/MORE_THA.1
@@ -2566,8 +2564,6 @@ F aotd/AOTD-3
 T 733573400
 F aotd/AOTD-6
 T 733573398
-F unzipflat
-T 1459031410
 F noroute
 T 1383261060
 F noroute/noroute2
@@ -7218,8 +7214,6 @@ F cvc/CVC01.2-6
 T 866144640
 F cvc/JO911.ASM
 T 866144798
-F unzip
-T 1459015030
 F phate
 T 1383261062
 F phate/PHATE102.HPA
