@@ -1,6 +1,6 @@
 #!/bin/sh
 
-dir=$(dirname "$1")
+updir=$(dirname "$1")
 touch -r "$dir" /tmp/unarj-$$
 dir="${1%.*}"
 mkdir "$dir"
@@ -9,5 +9,5 @@ arj e "$OLDPWD/$1"
 touch -r "$OLDPWD/$1" .
 cd -
 rm "$1"
-touch -r /tmp/unarj-$$ "$dir"
+touch -r /tmp/unarj-$$ "$updir"
 rm -f /tmp/unarj-$$
