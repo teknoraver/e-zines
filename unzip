@@ -1,0 +1,11 @@
+#!/bin/sh
+
+dir=$(dirname "$1")
+touch -r "$dir" /tmp/unzip-$$
+dir="${1%.*}"
+mkdir "$dir"
+unzip "$1" -d "$dir"
+touch -r "$1" "$dir"
+rm "$1"
+touch -r /tmp/unzip-$$ "$dir"
+rm -f /tmp/unzip-$$

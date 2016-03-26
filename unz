@@ -1,7 +1,0 @@
-#!/bin/sh
-
-dir="${1%.*}"
-mkdir "$dir"
-unzip "$1" -d "$dir"
-touch -r "$1" "$dir"
-rm "$1"

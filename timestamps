@@ -16,7 +16,7 @@ sub scan_dir
 		@files = map { "$path/$_" } @files;
 	}
 	for my $file (@files) {
-		next if(grep {$file eq $_} ('.git', FILE, $0, 'unz', 'unarj'));
+		next if(grep {$file eq $_} ('.git', FILE, $0, 'unz', 'unarj', 'ungz'));
 		print($tsfile "F $file\n");
 		my $ts = (stat($file))[9];
 		print($tsfile "T $ts\n");
