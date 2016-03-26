@@ -4,7 +4,7 @@ updir=$(dirname "$1")
 touch -r "$updir" /tmp/unzip-$$
 dir="${1%.*}"
 mkdir "$dir"
-unzip "$1" -d "$dir"
+unzip -q "$1" -d "$dir"
 touch -r "$1" "$dir"
 rm "$1"
 touch -r /tmp/unzip-$$ "$updir"

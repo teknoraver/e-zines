@@ -1,0 +1,11 @@
+#!/bin/sh
+
+touch -r . /tmp/unzipf-$$
+
+for i in *.zip; do
+	unzip "$i"
+	rm "$i"
+done
+
+touch -r /tmp/unzipf-$$ .
+rm -f /tmp/unzipf-$$
